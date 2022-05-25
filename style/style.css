@@ -23,7 +23,7 @@ nav{
     background: #1a2c35;
     height: 8vh;
 }
-main{
+body{
     background: url('../imagem/mar4.jpg') no-repeat center center;
     background-size: cover;
     height: 92vh; /*COM esse valor completa o 100 da nav 92 + 8 = 100vh*/
