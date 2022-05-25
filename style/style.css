@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+body{
+    width: 100vw;
+}
 a{
     color: white;
     text-decoration: none;
@@ -47,7 +50,7 @@ main{
     margin: 8px;
     transition: 0.3s;
 }
-@media-device(max-width: 999px){
+@media(max-width: 999px){
     body{
         overflow-x: hidden;
     }
