@@ -47,7 +47,7 @@ main{
     margin: 8px;
     transition: 0.3s;
 }
-@media (max-width: 999px){
+@media-device(max-width: 999px){
     body{
         overflow-x: hidden;
     }
